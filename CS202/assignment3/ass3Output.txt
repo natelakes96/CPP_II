@@ -1,0 +1,87 @@
+Naruto: Picked up HammerAssault!
+Naruto: Picked up SidearmPistol!
+Naruto: Picked up PumpShotgun!
+Naruto: Picked up Medkit!
+Naruto: Picked up FishingRod!
+Naruto: My inventory is full!
+Goku: Picked up Bandages!
+Goku: Picked up SidearmPistol!
+
+Naruto : 100(0)
+Inventory: 
+0    Weapon :        HammerAssault : AMMO   Medium : DMG  31
+1    Weapon :        SidearmPistol : AMMO    Light : DMG  25
+2    Weapon :          PumpShotgun : AMMO   Shells : DMG 103.2
+3   Healing :               Medkit : TYPE       HP : AMT 100
+4   Utility :           FishingRod
+Goku : 100(0)
+Inventory: 
+0   Healing :             Bandages : TYPE       HP : AMT  25
+1    Weapon :        SidearmPistol : AMMO    Light : DMG  48
+Naruto: Dropped FishingRod!
+Naruto: Picked up SmallShield!
+
+Naruto : 100(0)
+Inventory: 
+0    Weapon :        HammerAssault : AMMO   Medium : DMG  31
+1    Weapon :        SidearmPistol : AMMO    Light : DMG  25
+2    Weapon :          PumpShotgun : AMMO   Shells : DMG 103.2
+3   Healing :               Medkit : TYPE       HP : AMT 100
+4   Healing :          SmallShield : TYPE   Shield : AMT  25
+Goku: Nothing to drop!
+Naruto: Used Medkit
+Naruto: Used SmallShield
+Goku: Used Bandages
+
+Naruto : 200(25)
+Inventory: 
+0    Weapon :        HammerAssault : AMMO   Medium : DMG  31
+1    Weapon :        SidearmPistol : AMMO    Light : DMG  25
+2    Weapon :          PumpShotgun : AMMO   Shells : DMG 103.2
+
+Goku : 125(0)
+Inventory: 
+1    Weapon :        SidearmPistol : AMMO    Light : DMG  48
+Naruto: No item in slot 4
+Naruto: Cannot use SidearmPistol
+Naruto: Picked up HeavySniper!
+
+Naruto : 200(25)
+Inventory: 
+0    Weapon :        HammerAssault : AMMO   Medium : DMG  31
+1    Weapon :        SidearmPistol : AMMO    Light : DMG  25
+2    Weapon :          PumpShotgun : AMMO   Shells : DMG 103.2
+3    Weapon :          HeavySniper : AMMO    Heavy : DMG 120
+Naruto: Dropped SidearmPistol!
+
+Naruto : 200(25)
+Inventory: 
+0    Weapon :        HammerAssault : AMMO   Medium : DMG  31
+2    Weapon :          PumpShotgun : AMMO   Shells : DMG 103.2
+3    Weapon :          HeavySniper : AMMO    Heavy : DMG 120
+Goku: Picked up DMR!
+Naruto: Picked up ShieldPotion!
+
+Naruto : 200(25)
+Inventory: 
+0    Weapon :        HammerAssault : AMMO   Medium : DMG  31
+1   Healing :         ShieldPotion : TYPE   Shield : AMT  50
+2    Weapon :          PumpShotgun : AMMO   Shells : DMG 103.2
+3    Weapon :          HeavySniper : AMMO    Heavy : DMG 120
+
+Goku : 125(0)
+Inventory: 
+0    Weapon :                  DMR : AMMO   Medium : DMG  80
+1    Weapon :        SidearmPistol : AMMO    Light : DMG  48
+Goku: Dropped DMR!
+Goku: Picked up Keg!
+
+Goku : 125(0)
+Inventory: 
+0   Healing :                  Keg : TYPE   Shield : AMT 100
+1    Weapon :        SidearmPistol : AMMO    Light : DMG  48
+Goku: Used Keg
+
+Goku : 125(100)
+Inventory: 
+1    Weapon :        SidearmPistol : AMMO    Light : DMG  48

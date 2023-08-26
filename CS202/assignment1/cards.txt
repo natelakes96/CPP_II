@@ -1,0 +1,7 @@
+Strike 0 1
+Defend 0 1
+Poison 2 2
+DoubleStrike 2 3
+Ennervate 1 2
+Finisher 2 5
+Chip 1 1
